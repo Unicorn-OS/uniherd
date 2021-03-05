@@ -1,4 +1,4 @@
-# UNIHERD
+# UNIHERD Microkernel with Xirtus Order of Operations
 UNIHERD IS THE GNU HERD RTOS TOKEN FORK WITH BOINC INTEGRATION
 
 GNU Hurd is the multiserver microkernel written as part of GNU. It has been under development since 1990 by the GNU Project of the Free Software Foundation, designed as a replacement for the Unix kernel and released as free software under the GNU General Public License. When the Linux kernel proved to be a viable solution, development of GNU Hurd slowed, at times having slipped intermittently between stasis and renewed activity and interest.
