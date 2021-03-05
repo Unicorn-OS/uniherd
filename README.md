@@ -1,5 +1,18 @@
-# uniherd
-GNU HERD RTOS TOKEN FORK WITH BOINC INTEGRATION
+# UNIHERD
+UNIHERD IS THE GNU HERD RTOS TOKEN FORK WITH BOINC INTEGRATION
+
+GNU Hurd is the multiserver microkernel written as part of GNU. It has been under development since 1990 by the GNU Project of the Free Software Foundation, designed as a replacement for the Unix kernel and released as free software under the GNU General Public License. When the Linux kernel proved to be a viable solution, development of GNU Hurd slowed, at times having slipped intermittently between stasis and renewed activity and interest.
+
+The Hurd's design consists of a set of protocols and server processes (or daemons, in Unix terminology) that run on the GNU Mach microkernel. The Hurd aims to surpass the Unix kernel in functionality, security, and stability, while remaining largely compatible with it. The GNU Project chose the multiserver microkerne for the operating system, due to perceived advantages over the traditional Unix monolithic kernel architecture, a view that had been advocated by some developers in the 1980s
+
+In December 1991 the primary architect of the Hurd described the name as a mutually recursive acronym:
+
+It's time [to] explain the meaning of "Hurd". "Hurd" stands for "Hird of Unix-Replacing Daemons". And, then, "Hird" stands for "Hurd of Interfaces Representing Depth". We have here, to my knowledge, the first software to be named by a pair of mutually recursive acronyms.
+
+— Thomas (then Michael) Bushnell
+As both hurd and hird are homophones of the English word herd, the full name GNU Hurd is also a play on the words herd of gnus, reflecting how the kernel works.
+
+The logo is called the Hurd boxes and it also reflects on architecture. The logo is a graph where nodes represent the Hurd kernel's servers and directed edges are IPC messages.
 
 Debian Resources
 Official page about the Debian GNU/Hurd port: Debian GNU/Hurd
